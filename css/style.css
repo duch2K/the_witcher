@@ -255,6 +255,9 @@ body {
     }
 }
 @media (max-width: 540px) {
+    body {
+        background-position: top center;
+    }
     .menu-button {
         display: block;
         position: absolute;
